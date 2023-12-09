@@ -1,0 +1,12 @@
+sudo dnf up;
+sudo dnf upgrade firefox -y;
+cd ~/Dow*;
+wget https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.rpm;
+wget https://dbeaver.io/files/dbeaver-ce-latest-stable.x86_64.rpm;
+sudo dnf in *rpm -y;
+cd;
+sudo dnf config-manager --add-repo=https://download.docker.com/linux/fedora/docker-ce.repo;
+sudo dnf up;
+sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y;
+sudo systemctl start docker;
+sudo docker run -d -p 1521:1521 -e ORACLE_PASSWORD=root -v oracle-volume:/opt/oracle/oradata container-registry.oracle.com/database/free;#gvenzl/oracle-free;

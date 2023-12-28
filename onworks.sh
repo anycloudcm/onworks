@@ -19,4 +19,5 @@ cd;
 sudo podman run -d --name oracledb -p 1521:1521 -e ORACLE_PWD=oracledb container-registry.oracle.com/database/free:latest;
 # podman exec -it <oracle-db> sqlplus / as sysdba
 # OR podman exec -it <oracle-db> sqlplus sys/<your_password>@FREE as sysdba
-
+sudo docker save -o oracledb.tar container-registry.oracle.com/database/free;
+sudo docker load -i oracledb.tar

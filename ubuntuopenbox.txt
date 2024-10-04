@@ -1,0 +1,20 @@
+
+  adwaita-icon-theme at-spi2-common at-spi2-core dconf-gsettings-backend
+  dconf-service fontconfig fonts-droid-fallback fonts-noto-mono
+  fonts-urw-base35 gsettings-desktop-schemas gtk-update-icon-cache
+  hicolor-icon-theme humanity-icon-theme libatk-bridge2.0-0t64 libatk1.0-0t64
+  libatspi2.0-0t64 libavahi-client3 libavahi-common-data libavahi-common3
+  libcairo-gobject2 libcairo2 libcolord2 libcups2t64 libdatrie1 libdconf1
+  libepoxy0 libfontenc1 libgdk-pixbuf-2.0-0 libgdk-pixbuf2.0-bin
+  libgdk-pixbuf2.0-common libgif7 libgraphite2-3 libgs-common libgs10
+  libgs10-common libgtk-3-0t64 libgtk-3-bin libgtk-3-common libharfbuzz0b
+  libhwy1t64 libice6 libid3tag0 libidn12 libijs-0.35 libimlib2t64 libjbig2dec0
+  libjxl0.7 liblcms2-2 libobrender32v5 libobt2v5 libopenjp2-7 libpango-1.0-0
+  libpangocairo-1.0-0 libpangoft2-1.0-0 libpangoxft-1.0-0 libpaper-utils
+  libpaper1 libpixman-1-0 librsvg2-2 librsvg2-common libsm6 libspectre1
+  libstartup-notification0 libthai-data libthai0 libwayland-client0
+  libwayland-cursor0 libwayland-egl1 libwebpdemux2 libx11-xcb1 libxcb-render0
+  libxcb-shm0 libxcb-util1 libxcomposite1 libxcursor1 libxdamage1 libxfixes3
+  libxft2 libxi6 libxinerama1 libxrandr2 libxrender1 libxt6t64 libxtst6 obconf
+  openbox poppler-data scrot session-migration ubuntu-mono x11-common
+  xfonts-encodings xfonts-utils

@@ -1,0 +1,37 @@
+alsa-topology-conf alsa-ucm-conf cpp cpp-13 cpp-13-x86-64-linux-gnu
+  cpp-x86-64-linux-gnu dex dunst fontconfig fonts-dejavu fonts-dejavu-extra
+  fonts-vlgothic gcc-13-base i3 i3-wm i3lock i3status libanyevent-i3-perl
+  libanyevent-perl libasound2-data libasound2t64 libasync-interrupt-perl
+  libasyncns0 libauthen-sasl-perl libcairo2 libclone-perl libcommon-sense-perl
+  libconfuse-common libconfuse2 libdata-dump-perl libdatrie1 libdrm-amdgpu1
+  libdrm-intel1 libdrm-nouveau2 libdrm-radeon1 libencode-locale-perl
+  libev-perl libev4t64 libfile-basedir-perl libfile-desktopentry-perl
+  libfile-listing-perl libfile-mimeinfo-perl libflac12t64 libfont-afm-perl
+  libfontenc1 libgdk-pixbuf-2.0-0 libgdk-pixbuf2.0-bin libgdk-pixbuf2.0-common
+  libgl1 libgl1-amber-dri libgl1-mesa-dri libglapi-mesa libglvnd0 libglx-mesa0
+  libglx0 libgraphite2-3 libguard-perl libharfbuzz0b libhtml-form-perl
+  libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl
+  libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl
+  libhttp-message-perl libhttp-negotiate-perl libice6 libio-html-perl
+  libio-socket-ssl-perl libio-stringy-perl libipc-system-simple-perl libisl23
+  libjson-xs-perl libllvm17t64 liblwp-mediatypes-perl
+  liblwp-protocol-https-perl libmailtools-perl libmp3lame0 libmpc3
+  libmpg123-0t64 libnet-dbus-perl libnet-http-perl libnet-smtp-ssl-perl
+  libnet-ssleay-perl libnotify4 libogg0 libopus0 libpango-1.0-0
+  libpangocairo-1.0-0 libpangoft2-1.0-0 libpciaccess0 libpixman-1-0 libptytty0
+  libpulse0 libsm6 libsndfile1 libstartup-notification0 libthai-data libthai0
+  libtie-ixhash-perl libtimedate-perl libtry-tiny-perl
+  libtypes-serialiser-perl liburi-perl libvorbis0a libvorbisenc2 libvulkan1
+  libwayland-client0 libwayland-cursor0 libwww-perl libwww-robotrules-perl
+  libx11-protocol-perl libx11-xcb1 libxaw7 libxcb-cursor0 libxcb-dri2-0
+  libxcb-dri3-0 libxcb-glx0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1
+  libxcb-present0 libxcb-randr0 libxcb-render-util0 libxcb-render0
+  libxcb-screensaver0 libxcb-shape0 libxcb-shm0 libxcb-sync1 libxcb-util1
+  libxcb-xfixes0 libxcb-xinerama0 libxcb-xkb1 libxcb-xrm0 libxcomposite1
+  libxcursor1 libxfixes3 libxft2 libxi6 libxinerama1 libxkbcommon-x11-0
+  libxkbfile1 libxml-parser-perl libxml-twig-perl libxml-xpathengine-perl
+  libxmu6 libxrandr2 libxrender1 libxshmfence1 libxss1 libxt6t64 libxtst6
+  libxv1 libxxf86dga1 libxxf86vm1 libyajl2 mesa-vulkan-drivers
+  perl-openssl-defaults rxvt-unicode suckless-tools x11-common x11-utils
+  x11-xserver-utils xdg-utils xfonts-base xfonts-encodings xfonts-utils
+  xss-lock

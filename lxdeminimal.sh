@@ -1,0 +1,1 @@
+sudo apt install lxappearance lxappearance-obconf  lxde-common lxde-core lxde-icon-theme lxde-settings-daemon lxhotkey-core lxhotkey-data lxhotkey-gtk lxhotkey-plugin-openbox lxinput lxlauncher lxlock lxmenu-data lxpanel lxpanel-data lxpolkit lxrandr lxsession lxsession-data lxsession-default-apps lxsession-edit lxsession-logout lxterminal --download-only 
